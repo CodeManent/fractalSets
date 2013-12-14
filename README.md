@@ -3,9 +3,9 @@
 Visualization of some basic fractal sets.
   - (1) Cantor set
   - (2) Peano space filling curve
-  - (3) Kosh curve
-    - (4) Kosh curve on a triangle
-    - (5) Kosh curve on square
+  - (3) Koch curve
+    - (4) Koch curve on a triangle
+    - (5) Koch curve on square
 
 ## Usage
 
